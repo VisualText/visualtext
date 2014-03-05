@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VisualText", "VisualText.vcproj", "{1CF07362-37B3-42FA-9798-CC627493302B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug_QDBM = Debug_QDBM
+		DebugDynStat = DebugDynStat
+		Release = Release
+		Release_QDBM = Release_QDBM
+		ReleaseDynStat = ReleaseDynStat
+		Unicode_Debug = Unicode_Debug
+		Unicode_DebugDynStat = Unicode_DebugDynStat
+		Unicode_Release = Unicode_Release
+		Unicode_ReleaseDynStat = Unicode_ReleaseDynStat
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Debug.ActiveCfg = Debug|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Debug.Build.0 = Debug|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Debug_QDBM.ActiveCfg = Debug_QDBM|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Debug_QDBM.Build.0 = Debug_QDBM|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.DebugDynStat.ActiveCfg = DebugDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.DebugDynStat.Build.0 = DebugDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Release.ActiveCfg = Release|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Release.Build.0 = Release|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Release_QDBM.ActiveCfg = Release_QDBM|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Release_QDBM.Build.0 = Release_QDBM|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.ReleaseDynStat.ActiveCfg = ReleaseDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.ReleaseDynStat.Build.0 = ReleaseDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_Debug.ActiveCfg = Unicode_Debug|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_Debug.Build.0 = Unicode_Debug|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_DebugDynStat.ActiveCfg = Unicode_DebugDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_DebugDynStat.Build.0 = Unicode_DebugDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_Release.ActiveCfg = Unicode_Release|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_Release.Build.0 = Unicode_Release|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_ReleaseDynStat.ActiveCfg = Unicode_ReleaseDynStat|Win32
+		{1CF07362-37B3-42FA-9798-CC627493302B}.Unicode_ReleaseDynStat.Build.0 = Unicode_ReleaseDynStat|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
